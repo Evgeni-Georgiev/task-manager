@@ -8,6 +8,7 @@ import {getLoggedUser} from "../../utils/http-utils/user-requests";
 export function Header() {
 
     const currentLogged = getLoggedUser();
+    const taskUrl = `/tasks/${currentLogged.id}`;
     return (
         <div className="header">
             <Navbar bg="light" expand="lg">
@@ -17,7 +18,11 @@ export function Header() {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
                             <Link className="nav-link" to="/users-list">Users List</Link>
+                            <Link className="nav-link" to="/tasks-list">Tasks List</Link>
                             <Link className="nav-link" to="/user/create-user">Create User</Link>
+                            <Link className="nav-link" to="/task/create">Create Task</Link>
+                            <Link className="nav-link" to={taskUrl}>My Task</Link>
+
                         </Nav>
                     </Navbar.Collapse>
 
