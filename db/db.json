@@ -67,6 +67,37 @@
       "id": "h1lW5h0"
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "title": "Task2",
+      "description": "Task2",
+      "dueDate": "Wed Sep 28 2022",
+      "status": "Done",
+      "authorId": "h1lW5h01",
+      "authorName": "qweqwe",
+      "createdDate": "Mon Sep 19 2022",
+      "id": 3
+    },
+    {
+      "title": "Task Edited 2",
+      "description": "Task2",
+      "dueDate": "Sun Oct 02 2022",
+      "status": "Done",
+      "authorId": "h1lW5h0",
+      "authorName": "qweqwe",
+      "createdDate": "Mon Sep 19 2022",
+      "id": 2
+    },
+    {
+      "title": "Task3",
+      "description": "Task3",
+      "dueDate": "Wed Sep 28 2022",
+      "status": "Done",
+      "authorId": "h1lW5h0",
+      "authorName": "qweqwe",
+      "createdDate": "Mon Sep 19 2022",
+      "id": 4
+    }
+  ],
   "status": []
 }
