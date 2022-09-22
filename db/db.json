@@ -1,51 +1,72 @@
 {
-    "users": [
-        {
-            "id": "7a448f80-8e60-42a6-965a-d33999d5ade0",
-            "isActive": false,
-            "picture": "https://picsum.photos/200/300?random=1",
-            "name": "Hobbs Aguirre",
-            "email": "hobbsaguirre@thredz.com",
-            "phone": "+1 (971) 493-3772",
-            "address": "556 Montana Place, Williams, Guam, 6925"
-        },
-        {
-            "id": "99d8382f-d957-4e3b-8491-b0cc9351d7d8",
-            "isActive": false,
-            "picture": "https://picsum.photos/200/300?random=2",
-            "name": "Castillo Rasmussen",
-            "email": "castillorasmussen@thredz.com",
-            "phone": "+1 (956) 562-3888",
-            "address": "191 Dictum Court, Floris, Maine, 6777"
-        },
-        {
-            "id": "be378631-582c-4f72-9d38-ba0676d88923",
-            "isActive": true,
-            "picture": "https://picsum.photos/200/300?random=3",
-            "name": "Melendez Malone",
-            "email": "melendezmalone@thredz.com",
-            "phone": "+1 (860) 457-3402",
-            "address": "505 Hemlock Street, Loretto, Tennessee, 7871"
-        },
-        {
-            "id": "c97df29b-a08f-47aa-9b6d-ba993c0a12bb",
-            "isActive": true,
-            "picture": "https://picsum.photos/200/300?random=4",
-            "name": "Alyson Lang",
-            "email": "alysonlang@thredz.com",
-            "phone": "+1 (912) 426-2161",
-            "address": "487 Debevoise Street, Newkirk, District Of Columbia, 6724"
-        },
-        {
-            "id": "67c9af0b-595d-4848-81e6-1db667aa8835",
-            "isActive": false,
-            "picture": "https://picsum.photos/200/300?random=5",
-            "name": "Branch Gilliam",
-            "email": "branchgilliam@thredz.com",
-            "phone": "+1 (829) 486-3156",
-            "address": "508 Poly Place, Boonville, Idaho, 1637"
-        }
-    ],
-    "tasks": [],
-    "status": []
+  "users": [
+    {
+      "id": "7a448f80-8e60-42a6-965a-d33999d5ade0",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "name": "Hobbs Aguirre 12",
+      "email": "hobbsaguirre@thredz.com",
+      "phone": "+1 (971) 493-3772",
+      "address": "556 Montana Place, Williams, Guam, 6925"
+    },
+    {
+      "id": "99d8382f-d957-4e3b-8491-b0cc9351d7d8",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=2",
+      "name": "Castillo Rasmussen",
+      "email": "castillorasmussen@thredz.com",
+      "phone": "+1 (956) 562-3888",
+      "address": "191 Dictum Court, Floris, Maine, 6777",
+      "password": 123
+    },
+    {
+      "id": "be378631-582c-4f72-9d38-ba0676d88923",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "name": "Melendez Malone",
+      "email": "melendezmalone@thredz.com",
+      "phone": "+1 (860) 457-3402",
+      "address": "505 Hemlock Street, Loretto, Tennessee, 7871"
+    },
+    {
+      "id": "c97df29b-a08f-47aa-9b6d-ba993c0a12bb",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "name": "Alyson Lang",
+      "email": "alysonlang@thredz.com",
+      "phone": "+1 (912) 426-2161",
+      "address": "487 Debevoise Street, Newkirk, District Of Columbia, 6724"
+    },
+    {
+      "id": "67c9af0b-595d-4848-81e6-1db667aa8835",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "name": "Branch Gilliam",
+      "email": "branchgilliam@thredz.com",
+      "phone": "+1 (829) 486-3156",
+      "address": "508 Poly Place, Boonville, Idaho, 1637"
+    },
+    {
+      "isActive": false,
+      "name": "hobbsaguirre@thredz.com",
+      "picture": "hobbsaguirre@thredz.com",
+      "email": "hobbsaguirre@thredz.com111",
+      "phone": "hobbsaguirre@thredz.com",
+      "address": "hobbsaguirre@thredz.com",
+      "password": "hobbsaguirre@thredz.com",
+      "id": "5mB6KjP"
+    },
+    {
+      "isActive": false,
+      "name": "qweqwe",
+      "picture": "qweqwe",
+      "email": "qweqw@gmail.com",
+      "phone": "123",
+      "address": "qwe1232",
+      "password": "123",
+      "id": "h1lW5h0"
+    }
+  ],
+  "tasks": [],
+  "status": []
 }
